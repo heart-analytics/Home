@@ -1,7 +1,7 @@
 
 # HEART Analytics
 
-We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the Geis College of Business, the Granger College of Engineering, UC Berkeley and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
+We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the UIUC, UC Berkeley, UNC-Chapel Hill, and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
 
 ## Projects
 
@@ -26,6 +26,9 @@ https://ece.illinois.edu/about/directory/faculty/boses
 **Albert C. England III, MD, FIDSA, Clinical Assistant Professor of Medicine (retired), UIUC**  
 Dr England is a Staff Physician at OSF HealthCare Heart of Mary Medical Center.  
 https://providers.osfhealthcare.org/provider/Albert+C.+England/1465363
+
+**Mitch Goodman, Experienced Healthcare Supply Chain Professional**
+M. Goodman is a consultant on our project. He has extensive medical supply chain domain experience. He led the integration of the $1B Sutter Health’s supply chain into a shared service model. He has agreed to lend his expertise to our effort on modeling and mapping the medical supply chain in Thrust 2. As a supply chain leader, he and his teams deployed enterprise-wide processes to improve accountability and visibility to spend management while navigating through significant supply disruption due to fires in Northern California and Hurricane Maria.   https://www.linkedin.com/in/mitch-goodman-a84a7
 
 **Shuai Hao, PhD Student in Business Administration**  
 S. Hao research interests are fintech, healthcare, gig economy and empirical OM.  
