@@ -28,7 +28,8 @@ Dr England is a Staff Physician at OSF HealthCare Heart of Mary Medical Center.
 https://providers.osfhealthcare.org/provider/Albert+C.+England/1465363
 
 **Mitch Goodman, Experienced Healthcare Supply Chain Professional**
-M. Goodman is a consultant on our project. He has extensive medical supply chain domain experience. He led the integration of the $1B Sutter Health’s supply chain into a shared service model. He has agreed to lend his expertise to our effort on modeling and mapping the medical supply chain in Thrust 2. As a supply chain leader, he and his teams deployed enterprise-wide processes to improve accountability and visibility to spend management while navigating through significant supply disruption due to fires in Northern California and Hurricane Maria.   https://www.linkedin.com/in/mitch-goodman-a84a7
+M. Goodman is a consultant on our project. He has extensive medical supply chain domain experience. He led the integration of the $1B Sutter Health’s supply chain into a shared service model. He has agreed to lend his expertise to our effort on modeling and mapping the medical supply chain in Thrust 2. As a supply chain leader, he and his teams deployed enterprise-wide processes to improve accountability and visibility to spend management while navigating through significant supply disruption due to fires in Northern California and Hurricane Maria.  
+https://www.linkedin.com/in/mitch-goodman-a84a7
 
 **Shuai Hao, PhD Student in Business Administration**  
 S. Hao research interests are fintech, healthcare, gig economy and empirical OM.  
