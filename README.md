@@ -1,7 +1,7 @@
 
 # HEART Analytics
 
-We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the UIUC, UC Berkeley, UNC-Chapel Hill, and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
+We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the UIUC, UC Berkeley, and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
 
 ## Projects
 
@@ -58,6 +58,8 @@ https://www.linkedin.com/in/psridhar2147/
 **Ron Watkins, Associate Dean, Strategic Innovation, UIUC**  
 R. Watkins was asked by the University of Illinois System to be on the COVID-19 leadership team as the project manager for test site selection for the State of Illinois. He has been the spokesperson of our team so far and has constantly guided the development of our models and predictive analytics.  
 https://giesbusiness.illinois.edu/profile/ron-watkins
+
+### Former Members
 
 **Yuqian Xu, Assistant Professor, Kenan-Flagler Business School, UNC-Chapel Hill**  
 Y. Xu focuses on applied probability, stochastic control, econometric models and structural models with recent research on healthcare.  
