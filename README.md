@@ -19,51 +19,39 @@ https://github.com/heart-analytics/COVID19-India
 
 ## Group Members
 
-**Eren Ahsen**
-https://gies.illinois.edu/profile/mehmet-ahsen
+**[Eren Ahsen](https://gies.illinois.edu/profile/mehmet-ahsen)**
 
-**Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC**
+**[Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC](https://ece.illinois.edu/about/directory/faculty/boses)**
 S. Bose’s expertise lies in optimization, control and game theory with various applications in power and energy with interfaces to transportation.  
-https://ece.illinois.edu/about/directory/faculty/boses
 
-**Albert C. England III, MD, FIDSA, Clinical Assistant Professor of Medicine (retired), UIUC**  
+**[Albert C. England III, MD, FIDSA, Clinical Assistant Professor of Medicine (retired), UIUC](https://providers.osfhealthcare.org/provider/Albert+C.+England/1465363)**  
 Dr England is a Staff Physician at OSF HealthCare Heart of Mary Medical Center.  
-https://providers.osfhealthcare.org/provider/Albert+C.+England/1465363
 
-**Mitch Goodman, Experienced Healthcare Supply Chain Professional**
+**[Mitch Goodman, Experienced Healthcare Supply Chain Professional](https://www.linkedin.com/in/mitch-goodman-a84a7)**  
 M. Goodman is a consultant on our project. He has extensive medical supply chain domain experience. He led the integration of the $1B Sutter Health’s supply chain into a shared service model. He has agreed to lend his expertise to our effort on modeling and mapping the medical supply chain in Thrust 2. As a supply chain leader, he and his teams deployed enterprise-wide processes to improve accountability and visibility to spend management while navigating through significant supply disruption due to fires in Northern California and Hurricane Maria.  
-https://www.linkedin.com/in/mitch-goodman-a84a7
 
-**Shuai Hao, PhD Student in Business Administration**  
+**[Shuai Hao, PhD Student in Business Administration](https://giesbusiness.illinois.edu/profile/shuai-hao)**  
 S. Hao research interests are fintech, healthcare, gig economy and empirical OM.  
-https://giesbusiness.illinois.edu/profile/shuai-hao
 
-**Anton Ivanov, Assistant Professor of Business Administration, UIUC**  
+**[Anton Ivanov, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/anton-ivanov)**  
 A. Ivanov’s research stands at the intersection of information systems, data science, and healthcare analytics with an emphasis on user-generated content.  
-https://giesbusiness.illinois.edu/profile/anton-ivanov
 
-**Ujjal Mukherjee, Assistant Professor of Business Administration, UIUC**  
+**[Ujjal Mukherjee, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee)**  
 U. Mukherjee works on econometric modeling and data analytics application in Operations Management including healthcare.  
-https://giesbusiness.illinois.edu/profile/ujjal-mukherjee
 
-**Sridhar Seshadri, Alan J. and Joyce D. Baltz Endowed Professor of Business Administration, UIUC**  
+**[Sridhar Seshadri, Alan J. and Joyce D. Baltz Endowed Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/sridhar-seshadri)**  
 S. Seshadri has an established track record in stochastic modeling and supply chain management with application focus in several areas relevant to this research.  
-https://giesbusiness.illinois.edu/profile/sridhar-seshadri
 
-**Sebastian Souyris, Postdoc Research Associate, UIUC**  
+**[Sebastian Souyris, Postdoc Research Associate, UIUC](https://giesbusiness.illinois.edu/profile/sebastian-souyris)**  
 S. Souyris works on data-driven optimization, machine learning, and economic analysis in operations and management science.  
-https://giesbusiness.illinois.edu/profile/sebastian-souyris
 
-**Padmavati Sridhar, Graduate Student, UC Berkeley School of Information**  
+**[Padmavati Sridhar, Graduate Student, UC Berkeley School of Information](https://www.linkedin.com/in/psridhar2147/)**  
 P. Sridhar has a background in software and data engineering and is leading the web application development.  
-https://www.linkedin.com/in/psridhar2147/
 
-**Ron Watkins, Associate Dean, Strategic Innovation, UIUC**  
+**[Ron Watkins, Associate Dean, Strategic Innovation, UIUC](https://giesbusiness.illinois.edu/profile/ron-watkins)**  
 R. Watkins was asked by the University of Illinois System to be on the COVID-19 leadership team as the project manager for test site selection for the State of Illinois. He has been the spokesperson of our team so far and has constantly guided the development of our models and predictive analytics.  
-https://giesbusiness.illinois.edu/profile/ron-watkins
 
 ### Former Members
 
-**Yuqian Xu, Assistant Professor, Kenan-Flagler Business School, UNC-Chapel Hill**  
-Y. Xu focuses on applied probability, stochastic control, econometric models and structural models with recent research on healthcare.  
-https://sites.google.com/site/lillianyuqian/home
+**[Yuqian Xu, Assistant Professor, Kenan-Flagler Business School, UNC-Chapel Hill](https://sites.google.com/site/lillianyuqian/home)**  
+Y. Xu focuses on applied probability, stochastic control, econometric models and structural models with recent research on healthcare.
