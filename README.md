@@ -19,6 +19,9 @@ https://github.com/heart-analytics/COVID19-India
 
 ## Group Members
 
+**Eren Ahsen**
+https://gies.illinois.edu/profile/mehmet-ahsen
+
 **Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC**  
 S. Bose’s expertise lies in optimization, control and game theory with various applications in power and energy with interfaces to transportation.  
 https://ece.illinois.edu/about/directory/faculty/boses
