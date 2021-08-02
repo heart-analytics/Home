@@ -15,7 +15,7 @@ We are a group of researchers that work on healthcare related topics. During the
 
 ## Group Members
 
-**[Eren Ahsen](https://gies.illinois.edu/profile/mehmet-ahsen)**
+**[Eren Ahsen, Assistant Professor of Business Administration, UIUC](https://gies.illinois.edu/profile/mehmet-ahsen)**
 
 **[Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC](https://ece.illinois.edu/about/directory/faculty/boses)**
 S. Bose’s expertise lies in optimization, control and game theory with various applications in power and energy with interfaces to transportation.  
