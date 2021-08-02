@@ -5,17 +5,13 @@ We are a group of researchers that work on healthcare related topics. During the
 
 ## Projects
 
-**Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks**  
-https://github.com/heart-analytics/COVID19-Hotspots
+**[Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks](https://github.com/heart-analytics/COVID19-Hotspots)**
 
-**Control Of Epidemic Spreads Via Testing And Lock-Down**  
-https://github.com/heart-analytics/COVID19-TestingAndLockDown
+**[Control Of Epidemic Spreads Via Testing And Lock-Down](https://github.com/heart-analytics/COVID19-TestingAndLockDown)**
 
-**Safe Reopening Strategies For Educational Institutions During COVID-19: A Data-Driven Agent-Based Approach**  
-https://github.com/heart-analytics/COVID19-Reopening
+**[Safe Reopening Strategies For Educational Institutions During COVID-19: A Data-Driven Agent-Based Approach](https://github.com/heart-analytics/COVID19-Reopening)**
 
-**What Explains India’s Second Wave of COVID-19 Infections?**  
-https://github.com/heart-analytics/COVID19-India
+**[What Explains India’s Second Wave of COVID-19 Infections](https://github.com/heart-analytics/COVID19-India)**
 
 ## Group Members
 
