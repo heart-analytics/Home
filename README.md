@@ -20,6 +20,7 @@ https://github.com/heart-analytics/COVID19-India
 ## Group Members
 
 **Eren Ahsen**
+
 https://gies.illinois.edu/profile/mehmet-ahsen
 
 **Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC**  
