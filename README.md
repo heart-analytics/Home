@@ -9,9 +9,11 @@ We are a group of researchers that work on healthcare related topics. During the
 
 **[Control Of Epidemic Spreads Via Testing And Lock-Down](https://github.com/heart-analytics/COVID19-TestingAndLockDown)**
 
-**[Safe Reopening Strategies For Educational Institutions During COVID-19: A Data-Driven Agent-Based Approach](https://github.com/heart-analytics/COVID19-Reopening)**
+**[Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation](https://github.com/heart-analytics/COVID19-Reopening)**
 
-**[What Explains India’s Second Wave of COVID-19 Infections](https://github.com/heart-analytics/COVID19-India)**
+**[Not All Covid-19 Waves are Similar: Origins, Detection and Mitigation Strategies for Simultaneous Waves](https://github.com/heart-analytics/COVID19-India)**
+
+**[How SHIELD Illinois can help keep educational institutions open amid COVID-19: An econometric and epidemiologic analysis of ‘Test-to-stay’ program](https://github.com/heart-analytics/Home)**
 
 ## Group Members
 
